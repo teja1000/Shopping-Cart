@@ -1,6 +1,6 @@
 
 import Header from "../components/Header"
-import ProductCard from "../components/ProductCard"
+import SearchBar from "../components/Searchbar"
 
 
 function App() {
@@ -10,7 +10,7 @@ function App() {
     <>
     <div >
     <Header/>
-    
+    <SearchBar/>
     </div>
     </>
   )
